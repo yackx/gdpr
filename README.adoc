@@ -35,8 +35,6 @@ N'hésitez pas à contribuer, sous forme d'_issue_ ou de _pull request_.
 
 image::https://i.creativecommons.org/l/by-sa/4.0/88x31.png[CC BY-SA 4.0]
 
-link:https://creativecommons.org/licenses/by-sa/4.0/deed.fr[Creative Commons - Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)]
-
-link:LICENSE.txt[Texte de la licence d'utilisation]
-
-Attribution à https://github.com/yackx/gdpr
+* link:https://creativecommons.org/licenses/by-sa/4.0/deed.fr[Creative Commons - Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)]
+* link:LICENSE.txt[Texte de la licence d'utilisation]
+* Attribution à https://github.com/yackx/gdpr
