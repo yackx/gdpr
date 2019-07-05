@@ -20,7 +20,7 @@ Copiez-collez le contenu du link:template-fr.md[modèle] dans votre traitement d
 
 ## Statut
 
-Pré-projet.
+Pré-projet :
 
 * Besoin de relecteurs.
 * L'identification de la personne concernée est basée sur l'utilisation de la carte d'identité électronique (Belgique). A adapter pour la France. D'autres moyens de prouver votre identité sont possibles.
