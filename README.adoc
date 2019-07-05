@@ -1,0 +1,42 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+**Modèle pour exercer vos droits RGPD**
+
+# rgpd
+
+Ce _repository_ contient un modèle de document permettant à des personnes physiques d'exercer leurs droits auprès d'un responsables de traitement de données à caractères personnel. Il se base sur le [Règlement UE 2016/679 du 27 avril 2016](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679) communément appelé RGPD.
+
+Le texte est rédigé sur un ton neutre et de façon à coller au plus près à la législation. Pour chaque demande spécifique, il contient des références aux articles visés. Chaque point est numéroté afin de permettre un suivi aisé en cas de réponse incomplète.
+
+## Usage
+
+Copiez-collez le contenu du [modèle](template-fr.md) dans votre traitement de texte favori. Le modèle est au format markdown. Remplacez les `*` par de la graisse et les `_` par du souligné. Les `#` correspondent à des titres ou à des inter-titres.
+
+## Statut
+
+Pré-projet.
+
+* Besoin de relecteurs.
+* L'identification de la personne concernée est basée sur l'utilisation de la carte d'identité électronique (Belgique). A adapter pour la France. D'autres moyens de prouver votre identité sont possibles.
+* D'autres modèles pourraient suivre, par exemple l'exercice d'un droit à la rectification ou à l'oubli.
+
+[TIP]
+====
+N'hésitez pas à contribuer, sous forme d'_issue_ ou de _pull request_.
+====
+
+## Licence
+
+image::https://i.creativecommons.org/l/by-sa/4.0/88x31.png[CC BY-SA 4.0]
+
+link:https://creativecommons.org/licenses/by-sa/4.0/deed.fr[Creative Commons - Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)]
+
+link:LICENSE.txt[Texte de la licence d'utilisation]
+
+Attribution à https://github.com/yackx/rgpd
