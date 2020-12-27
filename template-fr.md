@@ -14,7 +14,7 @@ Monsieur,
 
 Je vous écris pour exercer mon droit d'accès aux données à caractère personnel me concernant. Ma demande est basée sur le Règlement UE 2016/679 du 27 avril 2016 communément appelé RGPD.
 
-Pourriez-vous me fournir les informations demandée, de manière précise et exhaustive, sous la forme et dans les délais prévus au règlement, et tels que détaillés ci-après.
+Pourriez-vous me fournir les informations demandées, de manière précise et exhaustive, sous la forme et dans les délais prévus légalement, et tel que détaillé ci-après.
 
 1. Informations générales
 
