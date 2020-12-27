@@ -19,7 +19,7 @@ Le texte est rédigé sur un ton neutre et de façon à coller au plus près à 
 * Copiez-collez le contenu du link:template-fr.md[modèle] dans votre traitement de texte favori ou directement dans un email.
 * Remplacez les informations bidon par vos coordonnées. 🤭
 * Le modèle est au format markdown. Remplacez les `*` par de la graisse et les `_` par du souligné. Les `#` correspondent à des titres ou à des inter-titres.
-* Adaptez les passages qui doivent l'être (p.e. vos moyens d'identification).
+* Adaptez les passages qui doivent l'être (p.e. vos moyens d'identification). Ceux-ci apparaissent sous forme de `XXX`.
 * Envoyez de préférence par email. La demande peut être jointe en PDF signé électroniquement.
 * Attendez patiemment la réponse et contemplez l'étendue des données collectées. 😀😰
 
