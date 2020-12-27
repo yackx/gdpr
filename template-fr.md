@@ -3,7 +3,7 @@ Adresse
 CP Ville
 
 
-Ville, le xxx
+Ville, le XXX
 
 
 _Concerne_ : **Droit d'accès à mes données à caractère personnel (RGPD)**
@@ -55,5 +55,5 @@ Les informations demandées doivent m'être fournies dans les meilleurs délais 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes meilleures salutations.
 
 
-John Doe
-Signé électroniquement eID
+XXX
+(Signé électroniquement eID)
