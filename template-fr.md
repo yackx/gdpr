@@ -45,7 +45,17 @@ Si les données à caractère personnel sont traitées à des fins de prospe
 
 4. Identification
 
-Vous êtes tenu de prendre toutes les mesures raisonnables pour vérifier l'identité d'une personne concernée qui demande l'accès à des données (préambule 64 et indirectement art. 12 par. 2). Il n'est cependant souhaitable que je vous donne copie de ma carte d'identité, car cela aura pour effet de vous révéler des données à caractère personnel supplémentaires (entre autre photos, prénoms, date et lieu de naissance, etc) dont vous ne disposez pas forcément. Pour lever tout doute sur mon identité, dans l'esprit de l'art. 12 par. 6, la présente demande est signée électroniquement au moyen de ma carte d'identité électronique.
+Vous êtes tenu de prendre toutes les mesures raisonnables pour vérifier l'identité d'une personne concernée qui demande l'accès à des données (préambule 64 et indirectement art. 12 par. 2). Il n'est cependant souhaitable que je vous donne copie de ma carte d'identité, car cela aura pour effet de vous révéler des données à caractère personnel supplémentaires (entre autre photos, prénoms, date et lieu de naissance, etc) dont vous ne disposez pas forcément. 
+
+La CNIL a estimé qu'une demande systématique d'un justificatif d'identité n’était pas justifiée dès lors qu’il n’existe pas de doute sur l’identité la personne exerçant ses droits (Carrefour France, 26 novembre 2020).
+
+XXX eID XXX Dès lors, dans l'esprit de l'art. 12 par. 6, la présente demande est signée électroniquement au moyen de ma carte d'identité électronique.
+
+XXX Supermarchés XXX Dès lors, dans l'esprit de l'art. 12 par. 6, je joins une copie de ma carte de fidélité.
+
+XXX Facebook, Twitter etc XXX Il vous est possible, si vous l'estimez nécessaire, de me demander confirmation de mon identité via votre application web.
+
+XXX J'y ajoute ma date de naissance et mon adresse.
 
 5. Délais
 
