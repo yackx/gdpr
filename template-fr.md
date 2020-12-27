@@ -30,7 +30,7 @@ i) Si les données me concernant sont transférées vers un pays tiers ou à un
 j) La communication d'une violation des données à caractère personnel me concernant, si elle a eu lieu (art. 34).
 k) L'existence d'un traitement portant sur des catégories particulières de données à caractère personnel visé à l'art. 9.
 
-Selon que vous ayez collectés des données à caractère personnel auprès de moi ou pas, en application des art. 13 et/ou 14 selon le cas :
+Selon que vous ayez collecté des données à caractère personnel auprès de moi ou pas, en application des art. 13 et/ou 14 selon le cas :
 
 l) L'identité et les coordonnées du responsable du traitement et, le cas échéant, du représentant du responsable du traitement.
 m) Le cas échéant, les coordonnées du délégué à la protection des données.
