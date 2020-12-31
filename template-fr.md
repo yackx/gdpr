@@ -56,15 +56,13 @@ Si les données à caractère personnel sont traitées à des fins de prospe
 
 4. Identification
 
-Vous êtes tenu de prendre toutes les mesures raisonnables pour vérifier l'identité d'une personne concernée qui demande l'accès à des données (préambule 64). La CNIL a cependant estimé qu'une demande systématique d'un justificatif d'identité n’était pas justifiée dès lors qu’il n’existe pas de doute sur l’identité la personne exerçant ses droits (sanction contre Carrefour France, 26 novembre 2020).
+Vous êtes tenu de prendre toutes les mesures raisonnables pour vérifier l'identité d'une personne concernée qui demande l'accès à des données (préambule 64). Pour mémoire, la CNIL a cependant estimé qu'une demande systématique d'un justificatif d'identité n’était pas justifiée dès lors qu’il n’existe pas de doute sur l’identité la personne exerçant ses droits (sanction contre Carrefour France, 26 novembre 2020).
 
 XXX eID XXX Dès lors, en anticipation d'une possible invocation de l'art. 12 par. 6, la présente demande est signée électroniquement au moyen de ma carte d'identité électronique.
 
 XXX Supermarchés XXX Dès lors, en anticipation d'une possible invocation de l'art. 12 par. 6, je joins une copie de ma carte de fidélité.
 
-XXX Facebook, Twitter etc XXX Il vous est possible, si vous deviez invoquer l'art. 12 par. 6, de me demander confirmation de mon identité via votre application web sécurisée.
-
-XXX J'y ajoute ma date de naissance et mon adresse.
+XXX (Si cette info est déjà connue du responsable de traitement) J'y ajoute ma date de naissance et mon adresse.
 
 5. Délais
 
@@ -75,4 +73,4 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes meilleures salutat
 
 
 XXX
-(Signé électroniquement eID)
+(Signé électroniquement eID si applicable)
