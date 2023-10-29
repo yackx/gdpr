@@ -10,7 +10,7 @@ endif::[]
 
 == rgpd
 
-Ce _repository_ contient un modèle de document permettant à des personnes physiques d'exercer leurs droits auprès d'un responsables de traitement de données à caractères personnel. Il se base sur le link:https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679[Règlement UE 2016/679 du 27 avril 2016] communément appelé RGPD.
+Ce dépôt contient un modèle de document permettant à des personnes physiques d'exercer leurs droits auprès d'un responsables de traitement de données à caractères personnel. Il se base sur le link:https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679[Règlement UE 2016/679 du 27 avril 2016] communément appelé RGPD.
 
 Le texte est rédigé sur un ton neutre et de façon à coller au plus près à la législation. Pour chaque demande spécifique, il contient des références aux articles visés. Chaque point est numéroté afin de permettre un suivi aisé en cas de réponse incomplète.
 
