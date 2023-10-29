@@ -8,8 +8,11 @@ Ville, le XXX
 
 _Concerne_ : **Droit d'accès à mes données à caractère personnel (RGPD)**
 
+XXX Apostrophe - Choisissez la plus spécifique.
 
-Madame,
+Madame la Déléguée à la Protection des données,  
+Monsieur le Délégué à la Protection des données,  
+Madame,  
 Monsieur,
 
 Je vous écris pour exercer mon droit d'accès aux données à caractère personnel me concernant. Ma demande est basée sur le Règlement UE 2016/679 du 27 avril 2016 communément appelé RGPD.
